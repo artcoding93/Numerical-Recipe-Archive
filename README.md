@@ -1,5 +1,3 @@
-# Numerical-Recipe-Archive
-
 # 🧮 Numerical Recipes & Physics Archive
 
 수치해석(Numerical Methods)과 실전 물리/공학 응용을 체계적으로 다루는 아카이브입니다.
