@@ -12,4 +12,4 @@
 
 * [**[수치해석 02] 이분법(Bisection Method): 해가 여러 개일 때 이분법은 어떤 해를 찾아낼까? (다중 해 분리 기법)**](./content/posts/02-bisection-method2.md)
   
-  * 💻 [Google Colab에서 코드 실행하기](https://colab.research.google.com/github/artcoding93/Numerical-Recipe-Archive/blob/main/02_Bisection/Bisectioin_method_2.ipynb)
+  * 💻 [Google Colab에서 코드 실행하기](https://colab.research.google.com/github/artcoding93/Numerical-Recipe-Archive/blob/main/02_Bisection/bisection_method_2.ipynb)
