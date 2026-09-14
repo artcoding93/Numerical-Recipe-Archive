@@ -1,5 +1,5 @@
 ---
-title: "[수치해석 02] 해가 여러 개일 때 이분법은 어떤 해를 찾아낼까? (다중 해 분리 기법)"
+title: "[수치해석 02] 이분법(Bisection Method): 해가 여러 개일 때 이분법은 어떤 해를 찾아낼까? (다중 해 분리 기법)"
 date: 2026-09-14
 tags: ["수치해석", "Numerical Methods", "Python", "Bisection Method", "Grid Search", "다중해"]
 ---
