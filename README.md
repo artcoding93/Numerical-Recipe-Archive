@@ -15,3 +15,6 @@
   * 💻 [Google Colab에서 코드 실행하기](./02_Bisection/bisection_method_2.ipynb)
 
 * [**[수치해석 03] 뉴턴-랩슨(Newton-Raphson) 기법: 접선의 기울기로 해를 향해 Jump하라**](./content/posts/03-newton-raphson-method.md)
+* 
+  * 💻 [Google Colab에서 코드 실행하기](./03_newton_raphson/newton_raphson_method.ipynb)
+  
