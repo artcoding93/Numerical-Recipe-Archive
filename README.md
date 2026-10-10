@@ -2,7 +2,7 @@
 
 수치해석(Numerical Methods)과 실전 물리/공학 응용을 체계적으로 다루는 아카이브입니다.
 
-https://artcoding93.github.io/Numerical-Recipe-Archive/
+[🌐 블로그 웹사이트 바로가기](https://artcoding93.github.io/Numerical-Recipe-Archive/)
 
 ---
 
