@@ -1,14 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [['$','$'], ['\\(','\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']],
-      processEscapes: true
-    }
-  });
-</script>
-
 ---
 title: "[수치해석 03] 뉴턴-랩슨(Newton-Raphson) 기법: 접선의 기울기로 해를 향해 Jump하라"
 date: 2026-09-14
