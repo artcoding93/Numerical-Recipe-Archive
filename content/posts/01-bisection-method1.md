@@ -1,13 +1,4 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [['$','$'], ['\\(','\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']],
-      processEscapes: true
-    }
-  });
-</script>
+
 
 ---
 title: "[수치해석 01] 이분법(Bisection Method): 자율주행차는 어떻게 제한된 거리 안에 멈추는 속도를 찾을까?"
