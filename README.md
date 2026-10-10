@@ -1,6 +1,7 @@
 # 🧮 Numerical Recipes & Physics Archive
 
 수치해석(Numerical Methods)과 실전 물리/공학 응용을 체계적으로 다루는 아카이브입니다.
+https://artcoding93.github.io/Numerical-Recipe-Archive/
 
 ---
 
@@ -15,6 +16,6 @@
   * 💻 [Google Colab에서 코드 실행하기](./02_Bisection/bisection_method_2.ipynb)
 
 * [**[수치해석 03] 뉴턴-랩슨(Newton-Raphson) 기법: 접선의 기울기로 해를 향해 Jump하라**](./content/posts/03-newton-raphson-method.md)
-* 
+  
   * 💻 [Google Colab에서 코드 실행하기](./03_newton_raphson/newton_raphson_method.ipynb)
   
